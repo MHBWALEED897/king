@@ -256,9 +256,7 @@ if __name__ == "__main__":
     bln = dic[str(now.month)]
     thn = now.year
     date = f'{tgl}-{bln}-{thn}'
-    
-    os.system('xdg-open https://www.facebook.com/officelwaleed
-    
+     
     logo = f"""
 {green}┏━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 {green}┃{white} ╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗   ┃ OWNER  : WALEED KING      ┃
