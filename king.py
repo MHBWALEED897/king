@@ -259,11 +259,11 @@ if __name__ == "__main__":
      
     logo = f"""
 {green}┏━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-{green}┃{white} ╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗   ┃ OWNER  : WALEED KING      ┃
-{green}┃{white} ║║║╠═╣║  ║╣ ║╣  ║║   ┃ TOOL   : OLD CLONING      ┃
-{green}┃{white} ╚╩╝╩ ╩╩═╝╚═╝╚═╝═╩╝   ┃ GITHUB : WALEED-404       ┃
-{green}┃{white} THE_BR4ND WALEDD     ┃ STATUS : FREE             ┃
-{green}┃{white}   ONIFRE WALEED      ┃ SYSTEM : BYPASSED         ┃
+{green}┃{white} ╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗   ┃ OWNER  : WALEED KING ┃
+{green}┃{white} ║║║╠═╣║  ║╣ ║╣  ║║   ┃ TOOL   : OLD CLONING ┃
+{green}┃{white} ╚╩╝╩ ╩╩═╝╚═╝╚═╝═╩╝   ┃ GITHUB : WALEED-404  ┃
+{green}┃{white} THE_BR4ND WALEDD     ┃ STATUS : FREE        ┃
+{green}┃{white}   ONIFRE WALEED      ┃ SYSTEM : BYPASSED    ┃
 {green}┗━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 {green}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {white}─꯭─̽⃝DEVELOPER ▶︎ {green}WALEED KING
